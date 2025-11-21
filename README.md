@@ -1,4 +1,4 @@
-# 🐕🧁 Chihuahua vs Muffin Classification - Starter Kit
+# 🐕🧁 Chihuahua vs Muffin Classification
 
 [![3LC](https://img.shields.io/badge/Powered%20by-3LC-blue)](https://3lc.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
